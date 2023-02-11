@@ -5,9 +5,9 @@
 ## Table of Contents
   - [Description](#description)
   - [Project Overview & Demos](#project-overview--demos)
-   - [Overview](#overview)
-   - [Questions & Answers](#questions--answers)
-   - [Ratings & Reviews](#ratings--reviews)
+    - [Overview](#overview)
+    - [Questions & Answers](#questions--answers)
+    - [Ratings & Reviews](#ratings--reviews)
   - [Contributions](#contributions)
 
 ### Description
